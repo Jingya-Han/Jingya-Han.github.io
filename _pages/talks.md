@@ -23,7 +23,7 @@ author_profile: true
 
 ### (2025)
 **Han, J.**, & Pendergrass, A. G.  
-**Climate models underestimate long-term changes in the precipitation intensity distribution compared to station observations**  
+**Changes of Precipitation Intensity with Global Warming**  
 *Contemporary Advances in Statistics of Extremes Workshop*, June 30–July 2, 2025, Columbia, Missouri, USA. **Poster**
 
 ---
