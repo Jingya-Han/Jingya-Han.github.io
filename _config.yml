@@ -24,7 +24,7 @@ repository               : "Jingya-Han/Jingya-Han.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jingya Han"
+  name             : # "Jingya Han"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate studying Atmospheric Sciences"
   location         : "Ithaca"
